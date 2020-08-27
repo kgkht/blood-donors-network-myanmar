@@ -3,4 +3,4 @@ from Region.models import Division, Township
 # Register your models here.
 
 admin.site.register(Township)
-admin.site.register(Division)
+#admin.site.register(Division)
